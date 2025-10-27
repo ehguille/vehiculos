@@ -6,4 +6,4 @@ Existen tres subtipos de vehículos, también abstractos: terrestres (con un nú
 
 Independientemente del tipo de vehículo, todos los vehículos pueden tener un motor de combustión (que permite que el vehículo pueda repostar), un motor eléctrico (que permite que el vehículo pueda ser recargado) o puede no tener motor (en cuyo caso, el vehículo será impulsado por fuerza humana).
 
-Así, una bicicleta es un vehículo terrestre sin motor; un coche, un vehículo terrestre que puede ser de combustión o eléctrico; las motos de agua y los yates son acuáticos y de combustión; y los aviones y helicópteros son aéreos y de combustión.
+Así, una bicicleta es un vehículo terrestre sin motor; un coche, un vehículo terrestre que puede ser de combustión, eléctrico o híbrido (habrá 3 tipos de coches); las motos de agua y los yates son acuáticos y de combustión; y los aviones y helicópteros son aéreos y de combustión.
