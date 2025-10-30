@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<umlmark-class version="0.8.1" icons="true" show-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-rel="true" router="FAN">  
+  <class id="1" language="java" name="vehiculos.artilugios.Vehiculo" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/Vehiculo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="135" x="254" y="37"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="vehiculos.artilugios.VehiculoAcuatico" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/VehiculoAcuatico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="198" x="452" y="284"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="vehiculos.artilugios.VehiculoAereo" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/VehiculoAereo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="158" x="254" y="284"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="vehiculos.artilugios.VehiculoTerrestre" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/VehiculoTerrestre.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="172" x="42" y="284"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="vehiculos.artilugios.Bicicleta" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/Bicicleta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="117" x="42" y="459"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="vehiculos.artilugios.BicicletaElectrica" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/BicicletaElectrica.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="140" x="82" y="616"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="vehiculos.artilugios.MotorElectrico" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/MotorElectrico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="107" x="199" y="773"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </interface>  
+  <interface id="8" language="java" name="vehiculos.artilugios.ImpulsoHumano" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/ImpulsoHumano.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="117" x="42" y="773"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="vehiculos.artilugios.CocheElectrico" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/CocheElectrico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="262" y="616"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="vehiculos.artilugios.Coche" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/Coche.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="104" x="199" y="459"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="vehiculos.artilugios.Errores" project="vehiculos" 
+    file="/vehiculos/vehiculos/src/vehiculos/artilugios/Errores.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="90" x="494" y="37"/>    
+    <display resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" sort="true" 
+      accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="20">    
+    <bendpoint x="51" y="616"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <realization id="21">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="22">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <classifier-attribute resize-to-fit="true" stereotype="true" package="true" default-value="false" signature="true" 
+    sort="true" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="false"/>  
+  </classifier-attribute>  
+  <association-attribute labels="true" multiplicity="true"/>
+</umlmark-class>
